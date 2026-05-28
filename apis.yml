@@ -1,0 +1,32 @@
+aid: web3-storage
+name: Web3 Storage
+description: "File Sharing and Storage for Free with 1TB Space"
+url: https://web3.storage/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Cloud Storage & File Sharing"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Cloud Storage And File Sharing
+  - Public APIs
+apis:
+  - name: Web3 Storage
+    description: "File Sharing and Storage for Free with 1TB Space"
+    humanURL: https://web3.storage/
+    baseURL: https://web3.storage/
+    tags:
+      - Cloud Storage And File Sharing
+    properties:
+      - type: Documentation
+        url: https://web3.storage/
+common:
+  - type: Website
+    url: https://web3.storage/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
