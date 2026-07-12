@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://web3.storage/
 common:
+  - type: DomainSecurity
+    url: security/web3-storage-domain-security.yml
   - type: Website
     url: https://web3.storage/
   - type: PublicAPIsListing

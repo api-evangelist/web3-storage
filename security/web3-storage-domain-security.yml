@@ -1,0 +1,16 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: web3.storage
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 15 04:55:36 2026 GMT
+  hsts: null
+domains:
+- domain: web3.storage
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: reject
