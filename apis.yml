@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://web3.storage/', status: 301, note: 'declared website redirects to https://www.fil.one/ — a different registrable domain (web3.storage -> fil.one), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/web3-storage.png
 name: Web3 Storage
 description: "File Sharing and Storage for Free with 1TB Space"
