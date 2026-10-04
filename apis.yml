@@ -35,13 +35,14 @@ x-category: "Cloud Storage & File Sharing"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Cloud Storage And File Sharing
   - Public APIs
+  - Decentralized Storage
+  - Cloud Storage
+  - IPFS
 apis:
   - name: Web3 Storage
     description: "File Sharing and Storage for Free with 1TB Space"
     humanURL: https://web3.storage/
-    baseURL: https://web3.storage/
     tags:
       - Cloud Storage And File Sharing
     properties:
@@ -57,3 +58,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Cloud Storage And File Sharing
