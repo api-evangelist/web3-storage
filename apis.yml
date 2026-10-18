@@ -43,7 +43,8 @@ apis:
   - name: Web3 Storage
     description: "File Sharing and Storage for Free with 1TB Space"
     humanURL: https://web3.storage/
-    tags:
+    tags: []
+    tags_raw:
       - Cloud Storage And File Sharing
     properties:
       - type: Documentation
